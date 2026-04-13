@@ -1,4 +1,4 @@
-# Facial Emotion Recognition using Machine Learning
+# Facial Emotion Recognition using Machine Learning Algorithms
 
 ## 📌 Overview
 This project focuses on **Facial Emotion Recognition (FER)** using Machine Learning techniques. It predicts human emotions from facial images and compares the performance of two algorithms:
